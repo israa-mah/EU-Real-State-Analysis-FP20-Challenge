@@ -29,3 +29,7 @@ This project analyzes the real estate market in the European Union. The goal was
 * Check `Analysis_Steps.ipynb` to see the Python cleaning code.
 * ## 🔗 Live Interactive Dashboard
 [👉 Click here to view the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE5NjZiMzMtYjM1NC00NzcyLTgxNTEtNTdlOWQyYWZmMWJmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+
+**Developed by:** Israa
+*Data Analyst & Power BI Specialist*
